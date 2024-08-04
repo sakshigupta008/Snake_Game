@@ -1,22 +1,22 @@
 ##Snake Game in Python
 
-Features:
+##Features:
 
 Classic Snake gameplay with increasing difficulty.
 Colorful graphics and smooth controls.
 Real-time scoring and game-over functionality.
 
-Technologies Used:
+##Technologies Used:
 
 Python
 Pygame
 
-Installation:
+##Installation:
 
 Install Python
 Install Pygame using pip | Code: pip install pygame
 
-Usage:
+##Usage:
 
 Use the arrow keys to navigate the snake.
 Eat the food to grow the snake and increase your score.
